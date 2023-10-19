@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\MyTest99.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\MyTest99.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\MyTest99.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\MyTest99.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\MyTest99.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\MyTest99.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\obj\x86\Debug\MyTest99.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\obj\x86\Debug\MyTest99.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\obj\x86\Debug\MyTest99.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\obj\x86\Debug\MyTest99.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\obj\x86\Debug\MyTest99.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\TestSuite1.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\TestSuite2.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\TestSuite3.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\bin\Debug\MyTest99.rxsqc

@@ -1,0 +1,22 @@
+[
+  {
+    "Enabled": "True",
+    "TestSuite": "MyTest99",
+    "RunConfig": "Mani"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "TestSuite2",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "TestSuite1",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "TestSuite3",
+    "RunConfig": "TestRun"
+  }
+]
