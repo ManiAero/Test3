@@ -5,17 +5,17 @@
     "RunConfig": "Mani"
   },
   {
-    "Enabled": "True",
+    "Enabled": "False",
     "TestSuite": "TestSuite2",
     "RunConfig": "TestRun"
   },
   {
-    "Enabled": "True",
+    "Enabled": "False",
     "TestSuite": "TestSuite1",
     "RunConfig": "TestRun"
   },
   {
-    "Enabled": "True",
+    "Enabled": "False",
     "TestSuite": "TestSuite3",
     "RunConfig": "TestRun"
   }

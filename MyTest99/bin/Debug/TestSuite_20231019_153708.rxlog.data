@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="624ms"
+		durationms="624"
+		type="root"
+		rid="fc69b1b70fd0ed0"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Admin"
+		rxversion="10.7.4.0"
+		host="LAPTOP-DDOP63L4"
+		osversion="Windows 11 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="19-10-2023 15:37:08"
+		timestampiso="2023-10-19T10:07:08"
+		endtime="19-10-2023 15:37:09"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.572"
+			timeRelativeToTestModuleStartTime="00:00.572"
+			timeWallClock="15:37:09"
+			time="00:00.572"
+			level="Error"
+			category="User">
+			<message>
+				Unexpected exception occurred: Ranorex.RanorexException: There are multiple test suite files in the assembly directory. Please specify the test suite by using command line parameters or rename the test suite file to the current assembly name.<br/>   at Ranorex.Core.Testing.TestSuiteRunner.GetTestSuiteXml(Type containerType, String fileName)<br/>   at Ranorex.Core.Testing.TestSuiteRunner.Run(Type containerType, String cmdLineArgs, String testSuiteXml)<br/>   at Ranorex.Core.Testing.TestSuiteRunner.Run(Type containerType, String cmdLineArgs)<br/>   at MyTest99.Program.Main(String[] args) in C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\Program.cs:line 39
+			</message>
+			<metainfo
+				codefile="C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest99\MyTest99\Program.cs"
+				codeline="43"
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>
